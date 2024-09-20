@@ -17,4 +17,4 @@ Download the executable jar file in this repository
 Use the following syntax when running commands in the command line: 
 `GitHubActivityApp-jar-with-dependencies.jar  <username>`
 
-_This is a solution to a project challenge in_ [roadmap.sh]([https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/github-user-activity))
+_This is a solution to a project challenge in_ [roadmap.sh](https://roadmap.sh/projects/github-user-activity)
